@@ -78,7 +78,7 @@ Requirements:
 
 Run with IntelliJ **or** from terminal:
 
-go to project location
+go to goldenticketbe
 - ./mvnw clean test
 - ./mvnw spring-boot:run
 - runs on: http://localhost:8080
@@ -89,7 +89,7 @@ go to project location
 Requirements:
 - Node
 
-go to project location
+go to goldenticketui
 - npm install
 - npm run dev
 - Frontend runs on: http://localhost:5173
