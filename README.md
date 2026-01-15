@@ -24,8 +24,7 @@ clear user feedback during purchase attempts.
 ## Part A – Architecture & Design
 
 ### 1) Architecture Diagram
-
-![img.png](img.png)
+<img width="351" height="497" alt="image" src="https://github.com/user-attachments/assets/9536b278-1c14-4cb8-a881-615a13342c38" />
 
 **Flow**
 1. The frontend loads product and inventory
